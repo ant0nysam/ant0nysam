@@ -8,6 +8,8 @@ Hello, I'm Anton. Data Analyst with skills in data analysis and reporting and qu
 - Querying data using SQL
 - Also able to use Google Sheets and Excel
 
+### 💻 Currently studying Data Science at SkillFactory
+
 ### 📚 Projects
 
 Welcome to my modest (for now) portfolio, where I showcase my main projects:
