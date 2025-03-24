@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Introducing Myself
+## 👋 Introducing Myself
 
 Hello, I'm Anton. Data Analyst with skills in data analysis and reporting and query optimization.
 
