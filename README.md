@@ -24,4 +24,4 @@ Welcome to my modest (for now) portfolio, where I showcase my main projects:
 
 ### 👋🏻 Connect with Me
 
-- !(https://img.icons8.com/?size=100&id=63306&format=png&color=000000) [Telegram](https://t.me/ant0nysam)
+- ![tglogo](https://img.icons8.com/?size=100&id=63306&format=png&color=000000) [Telegram](https://t.me/ant0nysam)
