@@ -18,6 +18,8 @@ Welcome to my modest (for now) portfolio, where I showcase my main projects:
 
 [Vacancies analysis from the business platform "HeadHunter"](https://github.com/ant0nysam/project2)
 
+[Ticket analysis from the tech support database](https://github.com/ant0nysam/Ticket_Analysis)
+
 ### 🛠️ Tools
 
 - Language: Python, SQL
